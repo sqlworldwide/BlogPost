@@ -6,3 +6,5 @@ There were many responses from the community. I thought of creating a list of th
 * [GitHub Desktop](https://desktop.github.com/) Thank you Chrissy LeMaire
 * [Code School: Git Real - Pluralsight course](https://www.pluralsight.com/courses/code-school-git-real) Thank you Steve Klassen
 * [Cheatsheets](https://tweetdeck.twitter.com/) Thank you Matt Horn
+* [How to fork a GitHub repository and contribute to an open source project](https://blog.robsewell.com/blog/source%20control/jupyter%20notebooks/azure%20data%20studio/dbatools/dbachecks/how-to-fork-a-github-repository-and-contribute-to-an-open-source-project/) by [Rob Sewel](https://sqldbawithabeard.com/)
+* [Kevin Chant and Sander Stad on Github Devops Duet - SQL Friday Edition](https://www.youtube.com/watch?app=desktop&v=FIE7051qaqE)
